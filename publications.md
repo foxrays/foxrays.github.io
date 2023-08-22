@@ -1,11 +1,11 @@
 ---
-title: publications
+title: Publications
 subtitle: null
 published: true
 ---
 
-<p> <b>Klever, L.</b>, Islam, J., Võ, M. L.-H., & Billino, J. (under review).
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aging attenuates the memory advantage for unexpected objects in real-world scenes. </p>
+- **Klever, L.**, Islam, J., Võ, M. L.-H., & Billino, J. (under review).
+	- Aging attenuates the memory advantage for unexpected objects in real-world scenes.
 
 - **Klever, L.**, Beyvers, M. C., Fiehler, K., Mamassian, P., & Billino, J. (2023).
 	- Cross-modal metacognition: Visual and tactile confidence share a common scale. _Journal of Vision, 23_(5):3, 1–16. [<u>doi:10.1167/jov.23.5.3</u>](https://doi.org/10.1167/jov.23.5.3)                                                                                                                                                                                                       
