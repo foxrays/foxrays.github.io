@@ -21,6 +21,7 @@ author: Lena Klever
 
 navbar-links:
   About: "aboutme"
+  Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
