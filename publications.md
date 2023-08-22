@@ -5,7 +5,7 @@ subtitle: null
 published: true
 ---
 
-- **Klever, L.**, Islam, J., Võ, M. L.-H., & Billino, J. (under review).
+-**Klever, L.**, Islam, J., Võ, M. L.-H., & Billino, J. (under review).
 	- Aging attenuates the memory advantage for unexpected objects in real-world scenes.
 
 - **Klever, L.**, Beyvers, M. C., Fiehler, K., Mamassian, P., & Billino, J. (2023).
