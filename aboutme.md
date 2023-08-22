@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Lena Klever. I am a psychologist and vision scientist with a passion for graphic design. I'm about to finish my PhD (Dr. rer. nat) at Justus Liebig University Giessen. In my free time, I love creating cute and funny animal illustrations. 
