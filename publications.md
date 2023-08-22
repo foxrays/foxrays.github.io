@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Publications
 subtitle: null
 published: true
